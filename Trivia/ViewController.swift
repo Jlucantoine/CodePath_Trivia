@@ -24,7 +24,7 @@ class ViewController: UIViewController {
         Question(questionNumber: "Question 1/3",
                  subject: "Geography",
                  questionText: "Which country have the largest surface area?",
-                 answers: ["China", "Russia", "The United States", "India"],
+                 answers: ["China", "Russia", "The United States", "Canada"],
                  correctAnswerIndex: 1),
 
         Question(questionNumber: "Question 2/3",
@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         Question(questionNumber: "Question 3/3",
                  subject: "History",
                  questionText: "What year did World War 2 started?",
-                 answers: ["1942", "1945", "1938", "1939"],
+                 answers: ["1943", "1945", "1938", "1939"],
                  correctAnswerIndex: 3)
     ]
 
